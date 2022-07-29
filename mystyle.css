@@ -1,0 +1,63 @@
+body {
+    background-image:linear-gradient(rgb(1,6,11), rgba(0,54,116)); 
+}
+
+
+    
+
+.navbar{
+    display:flex;
+    margin: 30px;
+    text-align:  center;
+    padding: 5px 10px;
+    font-size: 50px;
+    align-content:center;
+}
+.navbar-img { 
+    height: 100;
+    width: 200; 
+    padding: 10px;
+    vertical-align:middle;
+    margin:0px 0px ;
+}
+
+.heading {
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+.navbar-btn1 {
+    background-image:linear-gradient(rgb(1,6,11), rgba(0,54,116));
+    color: white;
+    height: 50px;
+    margin: 10px;
+    border:(rgb(1,6,11), rgba(0,54,116)) ;
+    
+}
+.navbar-btn2 {
+    background-color: rgba(240, 27, 27, 0.753);
+    height:50px ;
+    font-family: calibri;
+}
+
+.search-container {
+    color: lightgrey;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    
+}
+.filter {
+    background-color:linear-gradient(rgb(1,6,11), rgba(0,54,116));
+    color: white;
+    width: 15%;
+    size: 20;
+    margin: auto;
+    text-align: center;
+}
+.logo {
+    height: 30px;
+    width: 30px;
+    display: flex;
+    
+}
